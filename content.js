@@ -8,7 +8,7 @@ const portfolio = {
   status: "持续充电中",
   location: "中国 · 浙江",
   email: "zhoudengfeng1025@qq.com",
-  github: "https://github.com/",
+  github: "https://zhoudengfeng1025.github.io/zhoudengfeng/",
   csdn: "https://blog.csdn.net/Zhou_dengfeng?spm=1010.2135.3001.5343",
   gitee: "https://gitee.com/zhoudengfeng/my_zuopin",
   resumeUrl: "",
